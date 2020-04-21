@@ -1,0 +1,23 @@
+body {
+  background-color: #ffffff;
+}
+
+.advert {
+  background-color: #ffffff;
+}
+
+.headline {
+  color: #a5a5a5;
+  justify-content: center;
+  display: flex;
+}
+
+div.advert-panel-space {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+div.advert-panel {
+  border: solid black 2px;
+}
